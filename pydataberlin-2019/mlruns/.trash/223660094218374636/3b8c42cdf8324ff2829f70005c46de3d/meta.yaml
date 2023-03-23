@@ -1,0 +1,15 @@
+artifact_uri: /home/priyankathiruna/Ass_2.2/pydataberlin-2019/mlruns/223660094218374636/3b8c42cdf8324ff2829f70005c46de3d/artifacts
+end_time: 1679576723988
+entry_point_name: ''
+experiment_id: '223660094218374636'
+lifecycle_stage: active
+run_id: 3b8c42cdf8324ff2829f70005c46de3d
+run_name: salty-wasp-513
+run_uuid: 3b8c42cdf8324ff2829f70005c46de3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679576721351
+status: 3
+tags: []
+user_id: priyankathiruna

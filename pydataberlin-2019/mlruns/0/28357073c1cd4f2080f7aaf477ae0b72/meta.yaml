@@ -1,0 +1,15 @@
+artifact_uri: /home/priyankathiruna/Ass_2.2/pydataberlin-2019/mlruns/0/28357073c1cd4f2080f7aaf477ae0b72/artifacts
+end_time: 1679568134047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28357073c1cd4f2080f7aaf477ae0b72
+run_name: capable-koi-716
+run_uuid: 28357073c1cd4f2080f7aaf477ae0b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679568058353
+status: 3
+tags: []
+user_id: priyankathiruna

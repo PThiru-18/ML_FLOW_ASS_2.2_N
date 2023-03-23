@@ -1,0 +1,15 @@
+artifact_uri: /home/priyankathiruna/Ass_2.2/pydataberlin-2019/mlruns/599060670998676700/d6f4287394bc4354bcc5bb46d5c2a1f3/artifacts
+end_time: 1679577832119
+entry_point_name: ''
+experiment_id: '599060670998676700'
+lifecycle_stage: active
+run_id: d6f4287394bc4354bcc5bb46d5c2a1f3
+run_name: PARENT_RUN
+run_uuid: d6f4287394bc4354bcc5bb46d5c2a1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679577832070
+status: 3
+tags: []
+user_id: priyankathiruna

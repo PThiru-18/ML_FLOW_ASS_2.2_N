@@ -1,0 +1,15 @@
+artifact_uri: /home/priyankathiruna/Ass_2.2/pydataberlin-2019/mlruns/223660094218374636/23afb3f722a440ad84267fde541505c4/artifacts
+end_time: 1679576577434
+entry_point_name: ''
+experiment_id: '223660094218374636'
+lifecycle_stage: active
+run_id: 23afb3f722a440ad84267fde541505c4
+run_name: puzzled-hawk-913
+run_uuid: 23afb3f722a440ad84267fde541505c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679576577326
+status: 4
+tags: []
+user_id: priyankathiruna
